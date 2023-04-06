@@ -1,15 +1,4 @@
-
-server:
-  port: 8090
 spring:
   application:
     name: CONFIGCLIENT
-  cloud:
-    consul:
-      host: localhost
-      port: 8500
-    config:
-    server:
-      git:
-        uri: https://github.com/AdminYhf/configs.git
-        default-label: main
+ 
