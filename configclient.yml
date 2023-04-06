@@ -12,4 +12,4 @@ spring:
     server:
       git:
         uri: https://github.com/AdminYhf/configs.git
-        default-label: master
+        default-label: main
