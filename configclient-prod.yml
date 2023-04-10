@@ -1,5 +1,5 @@
 
-name: yhf123
+name: yhf1234
 spring:
   rabbitmq:
     host: 192.168.1.195
